@@ -68,3 +68,6 @@ C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\P
 C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\obj\Debug\Projeto01_ApiChamados.csproj.CopyComplete
 C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\obj\Debug\Projeto01_ApiChamados.dll
 C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\obj\Debug\Projeto01_ApiChamados.pdb
+C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\bin\System.Web.Cors.dll
+C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\bin\System.Web.Http.Cors.dll
+C:\Users\ta4015\Documents\DotNet_SeniorSolution\Modulo08\Projeto01_ApiChamados\Projeto01_ApiChamados\bin\System.Web.Http.Cors.xml

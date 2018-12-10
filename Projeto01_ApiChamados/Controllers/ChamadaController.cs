@@ -7,9 +7,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace Projeto01_ApiChamados.Controllers
 {
+    [EnableCors(origins:"*", methods:"GET, POST", headers:"" )]
     public class ChamadaController : ApiController
     {
         static readonly ChamadosDao dao = new ChamadosDao();

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto01_ApiChamados", "Projeto01_ApiChamados\Projeto01_ApiChamados.csproj", "{28804936-081B-4FD1-8FFA-E3F3EAE49FF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_ClienteWebApiAjax", "Projeto02_ClienteWebApiAjax\Projeto02_ClienteWebApiAjax.csproj", "{907B6FE8-3DCF-48A7-B4AF-7F6EF913BA59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28804936-081B-4FD1-8FFA-E3F3EAE49FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28804936-081B-4FD1-8FFA-E3F3EAE49FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28804936-081B-4FD1-8FFA-E3F3EAE49FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907B6FE8-3DCF-48A7-B4AF-7F6EF913BA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907B6FE8-3DCF-48A7-B4AF-7F6EF913BA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907B6FE8-3DCF-48A7-B4AF-7F6EF913BA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907B6FE8-3DCF-48A7-B4AF-7F6EF913BA59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
