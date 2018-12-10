@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_CHAMADOSModelStoreContainer" CdmEntityContainer="ChamadoEntities">
+    <EntitySetMapping Name="TB_Chamado">
+      <EntityTypeMapping TypeName="DB_CHAMADOSModel.Chamado">
+        <MappingFragment StoreEntitySet="TB_Chamado">
+          <ScalarProperty Name="ChamadoId" ColumnName="ChamadoId" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="CpfCliente" ColumnName="CpfCliente" />
+          <ScalarProperty Name="Assunto" ColumnName="Assunto" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Resposta" ColumnName="Resposta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
